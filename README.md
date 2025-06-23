@@ -1,7 +1,5 @@
 # Desafio-Projeto-de-Modelagem-de-Banco-de-Dados---Oficina
 
-Perfeito! Aqui está o `README.md` **totalmente focado no projeto da oficina mecânica**, sem nenhuma menção ao cenário de e-commerce:
-
 ---
 
 # 🔧 Projeto de Modelagem de Banco de Dados – Oficina Mecânica
